@@ -1,0 +1,27 @@
+navbar{
+	display:block;
+	width: 1350px;
+	background: orange;
+	
+	margin:black;
+	font-size: 1.5em;
+	text-align: center;
+	height: 100px;
+    
+}
+li:hover{
+	border:yellow 5px solid;
+	border-radius: 10px 10px 10px;
+	
+}
+li{
+	display: inline-block;
+	padding: 25px;
+
+
+}
+a{
+	width: 200px;
+	text-decoration: none;
+   display: inline-block;
+}
